@@ -1,0 +1,28 @@
+Linux platform
+pwd - to select directory(present working directory)
+ls - to see the files in a folder
+blue colors are the folders
+Linux-directories, windows-folders
+cd- change directory
+(cd
+/c:)
+mkdir (name of folder)- make a folder in the directory
+cd (name of the folder)- goes to the directory
+(to check date)- date
+(to check time)- time
+rmdir (name of the folder) - to delete folder
+cd .. - (to exit a folder)
+vi (name of the file) - to create a file in a folder  (mention the type of file txt, c, c++ etc)  (ex test.txt)
+
+to edit in a file
+-I(to insert in a file/ edit mode)
+-esc (to save/exit from edit mode)
+-:wq (to exit from the file/ to close the file)
+-cat.(file name)   shows the the file content
+
+git commands
+-git init(to initialize the git repository/ makes folder a git respitory)
+-ls -ah (shows git hidden files)
+-git status(what point your repository is working)
+-git add <file name>  (adds the name to master stage)
+-git commit -m <message>
