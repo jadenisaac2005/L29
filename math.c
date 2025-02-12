@@ -2,6 +2,6 @@
 
 int main(){
 int a=5, c=4;
-int add = a+b;
-printf("Sum = %d",add);
+printf("Sum = %d",a+b);
+printf("Difference = %d",a-b);
 }
