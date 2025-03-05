@@ -6,5 +6,6 @@ printf("I");
 printf("am');
 printf("Jaden");
 printf("Isaac");
+scanf("");
 return 0;
 }
