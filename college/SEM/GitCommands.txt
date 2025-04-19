@@ -26,3 +26,6 @@ git commands
 -git status(what point your repository is working)
 -git add <file name>  (adds the name to master stage)
 -git commit -m <message>
+
+
+git log --decorate --oneline --graph
